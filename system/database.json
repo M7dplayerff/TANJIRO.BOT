@@ -1,0 +1,2931 @@
+{
+  "users": {
+    "6282228545461@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 0
+    },
+    "6282285357346@s.whatsapp.net": {
+      "exp": null,
+      "limit": null,
+      "delay": 1709519073082
+    },
+    "212717457920@s.whatsapp.net": {
+      "exp": 1262,
+      "limit": 0,
+      "delay": 1711118251635
+    },
+    "212693227969@s.whatsapp.net": {
+      "exp": 21,
+      "limit": 0
+    },
+    "120363270153919557@g.us": {
+      "exp": 6,
+      "limit": 0
+    },
+    "212690552925@s.whatsapp.net": {
+      "exp": 10,
+      "limit": 0
+    },
+    "212698087775@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "201017367328@s.whatsapp.net": {
+      "exp": 7726,
+      "limit": 0,
+      "lastclaim": 1725314660472
+    },
+    "201210052164@s.whatsapp.net": {
+      "exp": 101,
+      "limit": 0,
+      "role": "Dragón rey estrella"
+    },
+    "120363166365086338@g.us": {
+      "exp": 28,
+      "limit": 0,
+      "messages": [
+        1726001017270
+      ],
+      "role": "Dragón rey estrella"
+    },
+    "201022808387@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "201206469178@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212603156567@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "201287264059@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212706771389@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212776404603@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "201208517430@s.whatsapp.net": {
+      "exp": 16,
+      "limit": 0,
+      "role": "Dragón rey estrella"
+    },
+    "963934010949@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 0
+    },
+    "201220864180@s.whatsapp.net": {
+      "exp": 40734,
+      "limit": 1000,
+      "delay": 1725997124256,
+      "premiumTime": 0,
+      "premium": false,
+      "banned": false,
+      "warn": 3,
+      "name": "زاراكي",
+      "age": 18,
+      "regTime": 1725646459915,
+      "registered": true,
+      "money": null,
+      "role": "Dragón rey estrella",
+      "messages": [
+        1726064103609
+      ],
+      "lastWarnTime": 1725989802798
+    },
+    "201223977365@s.whatsapp.net": {
+      "exp": null,
+      "limit": null,
+      "warn": 1
+    },
+    "213551234791@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212704973186@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212707508220@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "201221169461@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 0
+    },
+    "212771650353@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212716966327@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212600918520@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "201211425351@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212634587041@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212780618092@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "201061536745@s.whatsapp.net": {
+      "exp": 33621,
+      "limit": 0,
+      "delay": 1725752012804,
+      "name": "محمد",
+      "age": 17,
+      "regTime": 1725751106321,
+      "registered": true,
+      "money": null,
+      "role": "Dragón rey estrella"
+    },
+    "201006174395@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212760517793@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "201281594672@s.whatsapp.net": {
+      "exp": 357609,
+      "limit": 0,
+      "delay": 1726062099910,
+      "warn": 4,
+      "role": "Dragón rey estrella",
+      "messages": [
+        1725988086978,
+        1725988088084,
+        1725988088329,
+        1725988101860,
+        1725988102204,
+        1725988117335
+      ]
+    },
+    "212709501018@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212679333512@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212605521418@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212777422832@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "201028252440@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212620510477@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "967713903414@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212717360288@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212712741783@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212780823341@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212626292152@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212632913408@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212684280371@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212718786253@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212632865727@s.whatsapp.net": {
+      "exp": null,
+      "limit": null
+    },
+    "212609813555@s.whatsapp.net": {
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212724025387@s.whatsapp.net": {
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212645106267@s.whatsapp.net": {
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "963954703721@s.whatsapp.net": {
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212709752008@s.whatsapp.net": {
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212634150329@s.whatsapp.net": {
+      "role": "Dragón rey estrella",
+      "messages": [
+        1725988752147
+      ],
+      "exp": null,
+      "limit": null
+    },
+    "201102313298@s.whatsapp.net": {
+      "role": "Dragón rey estrella",
+      "messages": [
+        1725989188671,
+        1725989189743
+      ],
+      "exp": null,
+      "limit": null
+    },
+    "212710725533@s.whatsapp.net": {
+      "messages": [
+        1725994086949,
+        1725994088856,
+        1725994098922
+      ],
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212714553236@s.whatsapp.net": {
+      "messages": [
+        1726000430099
+      ],
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212721568851@s.whatsapp.net": {
+      "messages": [
+        1726007026800
+      ],
+      "role": "Dragón rey estrella",
+      "exp": 20,
+      "limit": 0
+    },
+    "212709455773@s.whatsapp.net": {
+      "messages": [
+        1726001828832,
+        1726001835987,
+        1726001838254
+      ],
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212695212631@s.whatsapp.net": {
+      "messages": [
+        1726005961597
+      ],
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212780432946@s.whatsapp.net": {
+      "messages": [
+        1726014935881
+      ],
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212696569545@s.whatsapp.net": {
+      "messages": [
+        1726061652636,
+        1726061660573,
+        1726061662218
+      ],
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    },
+    "212707075211@s.whatsapp.net": {
+      "messages": [
+        1726071536855
+      ],
+      "role": "Dragón rey estrella",
+      "exp": null,
+      "limit": null
+    }
+  },
+  "chats": {
+    "6282228545461@s.whatsapp.net": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "6282285357346@s.whatsapp.net": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "212717457920@s.whatsapp.net": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363270153919557@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1711118245790
+    },
+    "212693227969@s.whatsapp.net": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363320240564840@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725652072092
+    },
+    "201281594672@s.whatsapp.net": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "autosticker": false
+    },
+    "120363166365086338@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363320285962605@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725421840963
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363300525277061@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "ايام كان دونت دو زيس",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725800809964
+    },
+    "201223977365@s.whatsapp.net": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": false,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "201220864180@s.whatsapp.net": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "autosticker": true
+    },
+    "120363320730916039@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363301383934842@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363301770879584@g.us": {
+      "isBanned": true,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725544437508,
+      "banUntil": 1725509150360
+    },
+    "120363324239386656@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363328454052261@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725544389116
+    },
+    "120363251906037595@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363315536582855@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725546329439
+    },
+    "120363314612793073@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363334459662704@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725644503986
+    },
+    "120363315467278428@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "ايام دونت دو هير ان ذا بير دا لير",
+      "sBye": "بحبك",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725933928281
+    },
+    "201061536745@s.whatsapp.net": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false
+    },
+    "120363312601625312@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725765062938
+    },
+    "120363331725961365@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725790173768
+    },
+    "120363317119858619@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": true,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1725972721698,
+      "antiLink2": true
+    },
+    "120363336282030023@g.us": {
+      "isBanned": false,
+      "antiSpam": true,
+      "acc": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "اهلا بك يا @user",
+      "sBye": "بحبك",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": true,
+      "antiCall": true,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "simi": false,
+      "expired": 0,
+      "rpgs": false,
+      "games": false,
+      "delay": 1726072640380,
+      "antiLink2": true,
+      "antiviewonce": true,
+      "autosticker": true,
+      "detect2": false,
+      "antiTraba": false
+    }
+  },
+  "stats": {
+    "own-exec.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1709518806411,
+      "lastSuccess": 1709518806411
+    },
+    "own-exec2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1709519073082,
+      "lastSuccess": 1709519073082
+    },
+    "s.js": {
+      "total": 30,
+      "success": 30,
+      "last": 1711118251635,
+      "lastSuccess": 1711118251635
+    },
+    "bard.js": {
+      "total": 7,
+      "success": 2,
+      "last": 1711117345890,
+      "lastSuccess": 1711117345890
+    },
+    "enable.js": {
+      "total": 15,
+      "success": 15,
+      "last": 1726061838507,
+      "lastSuccess": 1726061838507
+    },
+    "sticker-sticker.js": {
+      "total": 127,
+      "success": 127,
+      "last": 1726069286083,
+      "lastSuccess": 1726069286083
+    },
+    "sticker-sticker_fix.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1725304348210,
+      "lastSuccess": 1725304348210
+    },
+    "sticker-stickermarker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725304408665,
+      "lastSuccess": 1725304408665
+    },
+    "sticker-stickerfilter.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725304461093,
+      "lastSuccess": 1725304461093
+    },
+    "sticker-emojimix.js": {
+      "total": 11,
+      "success": 2,
+      "last": 1725305056626,
+      "lastSuccess": 1725305056626
+    },
+    "sticker-dado.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1725305127696,
+      "lastSuccess": 1725305127696
+    },
+    "rpg-work.js": {
+      "total": 7,
+      "success": 4,
+      "last": 1725329599407,
+      "lastSuccess": 1725329599407
+    },
+    "rpg-verificar.js": {
+      "total": 46,
+      "success": 13,
+      "last": 1725931917685,
+      "lastSuccess": 1725751107744
+    },
+    "sticker-ttp_attp.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1725309018551,
+      "lastSuccess": 0
+    },
+    "rpg-unreg.js": {
+      "total": 11,
+      "success": 9,
+      "last": 1725666523017,
+      "lastSuccess": 1725666523017
+    },
+    "rpg-transfer.js": {
+      "total": 14,
+      "success": 14,
+      "last": 1725330506292,
+      "lastSuccess": 1725330506292
+    },
+    "rpg-shop.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1725330656813,
+      "lastSuccess": 1725330656813
+    },
+    "rpg-rob.js": {
+      "total": 10,
+      "success": 3,
+      "last": 1725330848006,
+      "lastSuccess": 1725330848006
+    },
+    "rpg-myns.js": {
+      "total": 16,
+      "success": 16,
+      "last": 1725667092664,
+      "lastSuccess": 1725667092664
+    },
+    "rpg-monthly.js": {
+      "total": 13,
+      "success": 10,
+      "last": 1725331185023,
+      "lastSuccess": 1725331185023
+    },
+    "rpg-minar.js": {
+      "total": 8,
+      "success": 4,
+      "last": 1725331264902,
+      "lastSuccess": 1725331252452
+    },
+    "rpg-heal.js": {
+      "total": 5,
+      "success": 4,
+      "last": 1725313139592,
+      "lastSuccess": 1725313139592
+    },
+    "rpg-daily.js": {
+      "total": 17,
+      "success": 9,
+      "last": 1725329501095,
+      "lastSuccess": 1725329501095
+    },
+    "rpg-crime.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1725331614920,
+      "lastSuccess": 1725331614920
+    },
+    "rpg-cofre.js": {
+      "total": 8,
+      "success": 3,
+      "last": 1725331710283,
+      "lastSuccess": 1725326148658
+    },
+    "rpg-berburu_cazar.js": {
+      "total": 15,
+      "success": 13,
+      "last": 1725331777797,
+      "lastSuccess": 1725331777797
+    },
+    "rpg-balance.js": {
+      "total": 15,
+      "success": 15,
+      "last": 1725381218254,
+      "lastSuccess": 1725381218254
+    },
+    "rpg-annual.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1725329441831,
+      "lastSuccess": 1725329441831
+    },
+    "random-waifu.js": {
+      "total": 15,
+      "success": 14,
+      "last": 1725423587449,
+      "lastSuccess": 1725423587449
+    },
+    "random-Messi.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1725423711266,
+      "lastSuccess": 1725423711266
+    },
+    "sticker-wm.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1725375483299,
+      "lastSuccess": 0
+    },
+    "random-ppcp.js": {
+      "total": 18,
+      "success": 17,
+      "last": 1725383327454,
+      "lastSuccess": 1725383327454
+    },
+    "متصدرين_الروم.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725379852358,
+      "lastSuccess": 1725379852358
+    },
+    "rpg-leaderboard.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1726002199178,
+      "lastSuccess": 1726002199178
+    },
+    "لفل.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1725381158723,
+      "lastSuccess": 1725381158723
+    },
+    "بروفايل.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725380992898,
+      "lastSuccess": 1725380992898
+    },
+    "rpg-profile.js": {
+      "total": 23,
+      "success": 23,
+      "last": 1725996817474,
+      "lastSuccess": 1725996817474
+    },
+    "rpg-level.js": {
+      "total": 37,
+      "success": 36,
+      "last": 1726001202694,
+      "lastSuccess": 1726001202694
+    },
+    "random-neko.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1725423627146,
+      "lastSuccess": 1725423627146
+    },
+    "random-loli.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1725423747148,
+      "lastSuccess": 1725423747148
+    },
+    "random-kpop.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725423804100,
+      "lastSuccess": 1725423804100
+    },
+    "random-itzy.js": {
+      "total": 10,
+      "success": 8,
+      "last": 1725423846425,
+      "lastSuccess": 1725423846425
+    },
+    "random-dog.js": {
+      "total": 11,
+      "success": 11,
+      "last": 1725423880548,
+      "lastSuccess": 1725423880548
+    },
+    "random-cat.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1725423911593,
+      "lastSuccess": 1725423911593
+    },
+    "random-C. Ronaldo.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725423941555,
+      "lastSuccess": 1725423941555
+    },
+    "random-blackpink.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725395420290,
+      "lastSuccess": 1725395420290
+    },
+    "random-anime.js": {
+      "total": 34,
+      "success": 34,
+      "last": 1725514959754,
+      "lastSuccess": 1725514959754
+    },
+    "propietario-actualizar.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725396255620,
+      "lastSuccess": 1725396255620
+    },
+    "owner-viewimage.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725396381243,
+      "lastSuccess": 0
+    },
+    "owner-unbanuser.js": {
+      "total": 15,
+      "success": 8,
+      "last": 1725422992068,
+      "lastSuccess": 1725422992068
+    },
+    "owner-unbanchat.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725420279424,
+      "lastSuccess": 1725420279424
+    },
+    "owner-setppbot.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725410289700,
+      "lastSuccess": 0
+    },
+    "owner-saveimage.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1725410420726,
+      "lastSuccess": 0
+    },
+    "owner-resetuser.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1725937887375,
+      "lastSuccess": 1725937887375
+    },
+    "owner-resetprefix.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725420733438,
+      "lastSuccess": 1725420733438
+    },
+    "owner-reporte.js": {
+      "total": 10,
+      "success": 3,
+      "last": 1725420805394,
+      "lastSuccess": 1725420789493
+    },
+    "owner-listmsg.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725412300213,
+      "lastSuccess": 1725412300213
+    },
+    "owner-leavegc.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725420943359,
+      "lastSuccess": 1725420943359
+    },
+    "owner-join.js": {
+      "total": 16,
+      "success": 3,
+      "last": 1725421392082,
+      "lastSuccess": 1725421392082
+    },
+    "owner-grouplist.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725421562845,
+      "lastSuccess": 1725421562845
+    },
+    "owner-getplugin.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725413221453,
+      "lastSuccess": 1725413221453
+    },
+    "owner-getmsg.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725413402951,
+      "lastSuccess": 0
+    },
+    "owner-fetch_get.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1725413566056,
+      "lastSuccess": 0
+    },
+    "owner-esperando_mensaje.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1725421708422,
+      "lastSuccess": 1725421708422
+    },
+    "owner-errorcom.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725414301962,
+      "lastSuccess": 0
+    },
+    "owner-delprem.js": {
+      "total": 25,
+      "success": 6,
+      "last": 1725927297026,
+      "lastSuccess": 1725927297026
+    },
+    "owner-exec.js": {
+      "total": 22334,
+      "success": 22334,
+      "last": 1726069169969,
+      "lastSuccess": 1726069169969
+    },
+    "owner-cleartmp.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725422101472,
+      "lastSuccess": 1725422101472
+    },
+    "owner-chetar.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725415206221,
+      "lastSuccess": 1725415206221
+    },
+    "owner-chatgp.js": {
+      "total": 7,
+      "success": 1,
+      "last": 1725422370664,
+      "lastSuccess": 1725415575325
+    },
+    "owner-broadcastchats.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1725415874046,
+      "lastSuccess": 1725415874046
+    },
+    "owner-blocklist.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1725423055272,
+      "lastSuccess": 1725423055272
+    },
+    "owner-block-unblock.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1725422957030,
+      "lastSuccess": 1725422957030
+    },
+    "owner-bcgc2.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725416790657,
+      "lastSuccess": 0
+    },
+    "owner-banuser.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1725423112080,
+      "lastSuccess": 1725423112080
+    },
+    "owner-banlist.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1725423038770,
+      "lastSuccess": 1725423038770
+    },
+    "owner-banchat.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725422750362,
+      "lastSuccess": 1725422750362
+    },
+    "owner-autoadmin.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725417831549,
+      "lastSuccess": 1725417831549
+    },
+    "owner-anadirXP.js": {
+      "total": 5,
+      "success": 2,
+      "last": 1725422816648,
+      "lastSuccess": 1725422816648
+    },
+    "owner-anadirLimit.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1725422865329,
+      "lastSuccess": 1725422865329
+    },
+    "owner-addprem.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1725480186148,
+      "lastSuccess": 1725480186148
+    },
+    "owner-add_del_owner.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1725937865380,
+      "lastSuccess": 1725937865380
+    },
+    "owner-setprefix.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1725420439178,
+      "lastSuccess": 1725420439178
+    },
+    "menus-menu.js": {
+      "total": 15,
+      "success": 15,
+      "last": 1725926828839,
+      "lastSuccess": 1725926828839
+    },
+    "marker-lolice.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725474307734,
+      "lastSuccess": 1725474307734
+    },
+    "marker-ephoto360.js": {
+      "total": 5,
+      "success": 3,
+      "last": 1725474582362,
+      "lastSuccess": 1725474582362
+    },
+    "maker-ytcomment.js": {
+      "total": 6,
+      "success": 3,
+      "last": 1725474805519,
+      "lastSuccess": 1725474805519
+    },
+    "maker-simpcard.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725475272687,
+      "lastSuccess": 1725475272687
+    },
+    "maker-pixel.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1725475912528,
+      "lastSuccess": 1725475912528
+    },
+    "maker-itssostupid.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725476320657,
+      "lastSuccess": 1725476320657
+    },
+    "maker-horncard.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1725476524593,
+      "lastSuccess": 1725476524593
+    },
+    "maker-gay.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725476788928,
+      "lastSuccess": 1725476788928
+    },
+    "maker-blur.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1725937163827,
+      "lastSuccess": 1725937163827
+    },
+    "info-TyC.js": {
+      "total": 25,
+      "success": 25,
+      "last": 1725477571211,
+      "lastSuccess": 1725477571211
+    },
+    "info-speedtest.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725477740603,
+      "lastSuccess": 1725477740603
+    },
+    "info-repositorio.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725507012168,
+      "lastSuccess": 1725507012168
+    },
+    "info-listprem.js": {
+      "total": 25,
+      "success": 25,
+      "last": 1725585148917,
+      "lastSuccess": 1725585148917
+    },
+    "info-host.js": {
+      "total": 14,
+      "success": 14,
+      "last": 1725506484504,
+      "lastSuccess": 1725506484504
+    },
+    "info-gruposofc.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1725506362711,
+      "lastSuccess": 1725506362711
+    },
+    "info-channelbot.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1725505743311,
+      "lastSuccess": 1725505743311
+    },
+    "info-estado.js": {
+      "total": 15,
+      "success": 15,
+      "last": 1725505931548,
+      "lastSuccess": 1725505931548
+    },
+    "info-creador.js": {
+      "total": 41,
+      "success": 34,
+      "last": 1725505857977,
+      "lastSuccess": 1725505857977
+    },
+    "herramientas-tz.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1725522376067,
+      "lastSuccess": 1725522376067
+    },
+    "herramientas-translate.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1725511096849,
+      "lastSuccess": 1725511096849
+    },
+    "herramientas-topdf.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725511259889,
+      "lastSuccess": 0
+    },
+    "herramientas-styletext.js": {
+      "total": 4,
+      "success": 0,
+      "last": 1725511748393,
+      "lastSuccess": 0
+    },
+    "herramientas-ssweb.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1725522493290,
+      "lastSuccess": 1725522493290
+    },
+    "herramientas-readviewonce.js": {
+      "total": 6,
+      "success": 3,
+      "last": 1725512262384,
+      "lastSuccess": 1725512262384
+    },
+    "herramientas-readqrcode.js": {
+      "total": 8,
+      "success": 0,
+      "last": 1725513921125,
+      "lastSuccess": 0
+    },
+    "herramientas-readmore.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1725544500292,
+      "lastSuccess": 1725544500292
+    },
+    "herramientas-qrcode.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1725522594236,
+      "lastSuccess": 1725522594236
+    },
+    "herramientas-inspect.js": {
+      "total": 14,
+      "success": 9,
+      "last": 1725517516290,
+      "lastSuccess": 1725517516290
+    },
+    "herramientas-hd.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1725517948751,
+      "lastSuccess": 1725517948751
+    },
+    "herramientas-fakeReply.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725518150944,
+      "lastSuccess": 1725518150944
+    },
+    "herramientas-encuesta.js": {
+      "total": 10,
+      "success": 7,
+      "last": 1725518927911,
+      "lastSuccess": 1725518927911
+    },
+    "herramientas-dropmail.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725519062812,
+      "lastSuccess": 1725519062812
+    },
+    "herramientas-clima.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725522955328,
+      "lastSuccess": 1725522955328
+    },
+    "herramientas-chatgpt_del.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1725520068950,
+      "lastSuccess": 0
+    },
+    "herramientas-calc.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1725520683817,
+      "lastSuccess": 1725520683817
+    },
+    "herramientas-ajustar_tamano.js": {
+      "total": 7,
+      "success": 2,
+      "last": 1725520938462,
+      "lastSuccess": 1725520938462
+    },
+    "herramientas-acortar.js": {
+      "total": 7,
+      "success": 4,
+      "last": 1725544407323,
+      "lastSuccess": 1725544407323
+    },
+    "اسأل_تانجيرو2.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725544800678,
+      "lastSuccess": 1725544800678
+    },
+    "BK9_Tools.js": {
+      "total": 8,
+      "success": 7,
+      "last": 1725545597801,
+      "lastSuccess": 1725545597801
+    },
+    "BK9_AI.js": {
+      "total": 14,
+      "success": 11,
+      "last": 1725546329439,
+      "lastSuccess": 1725546329439
+    },
+    "herramientas-tanjiro.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725978411076,
+      "lastSuccess": 1725978411076
+    },
+    "gc-warn.js": {
+      "total": 49,
+      "success": 49,
+      "last": 1725649889824,
+      "lastSuccess": 1725649889824
+    },
+    "gc-unwarn.js": {
+      "total": 19,
+      "success": 19,
+      "last": 1725649217639,
+      "lastSuccess": 1725649217639
+    },
+    "gc-tagall.js": {
+      "total": 20,
+      "success": 20,
+      "last": 1725746815852,
+      "lastSuccess": 1725746815852
+    },
+    "gc-setwelcome.js": {
+      "total": 7,
+      "success": 5,
+      "last": 1725997235963,
+      "lastSuccess": 1725997235963
+    },
+    "gc-setpp.js": {
+      "total": 18,
+      "success": 0,
+      "last": 1725574049488,
+      "lastSuccess": 0
+    },
+    "gc-setname.js": {
+      "total": 12,
+      "success": 5,
+      "last": 1725659022999,
+      "lastSuccess": 1725659022999
+    },
+    "gc-setppgroup.js": {
+      "total": 7,
+      "success": 5,
+      "last": 1725574663233,
+      "lastSuccess": 1725574585298
+    },
+    "gcln-setwelcome.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725574746779,
+      "lastSuccess": 1725574746779
+    },
+    "gc-setdesc.js": {
+      "total": 6,
+      "success": 5,
+      "last": 1725671562001,
+      "lastSuccess": 1725671562001
+    },
+    "gc-setbye.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1725997295364,
+      "lastSuccess": 1725997295364
+    },
+    "gc-revoke.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1725649617811,
+      "lastSuccess": 1725649617811
+    },
+    "gc-promote.js": {
+      "total": 66,
+      "success": 66,
+      "last": 1725649679994,
+      "lastSuccess": 1725649679994
+    },
+    "gc-listwarn.js": {
+      "total": 17,
+      "success": 17,
+      "last": 1725651198120,
+      "lastSuccess": 1725651198120
+    },
+    "gc-listanum_kicknum.js": {
+      "total": 11,
+      "success": 11,
+      "last": 1725651333058,
+      "lastSuccess": 1725651333058
+    },
+    "gc-link.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1725651381727,
+      "lastSuccess": 1725651381727
+    },
+    "gc-kick2.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725587379994,
+      "lastSuccess": 1725587379994
+    },
+    "gc-infogroup.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725651528286,
+      "lastSuccess": 1725651528286
+    },
+    "gc-hidetag.js": {
+      "total": 48,
+      "success": 46,
+      "last": 1725651776472,
+      "lastSuccess": 1725651776472
+    },
+    "gc-fantasmas.js": {
+      "total": 18,
+      "success": 18,
+      "last": 1725651829148,
+      "lastSuccess": 1725651829148
+    },
+    "gc-kick.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1725996801322,
+      "lastSuccess": 1725996801322
+    },
+    "gc-demote.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725979130001,
+      "lastSuccess": 1725979130001
+    },
+    "gc-delete.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1725943477625,
+      "lastSuccess": 1725943477625
+    },
+    "gc-config.js": {
+      "total": 11,
+      "success": 7,
+      "last": 1725652018329,
+      "lastSuccess": 1725652018329
+    },
+    "gc-config_time.js": {
+      "total": 11,
+      "success": 7,
+      "last": 1725652072092,
+      "lastSuccess": 1725652072092
+    },
+    "afk-afk.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1725596201449,
+      "lastSuccess": 1725596201449
+    },
+    "game-ttt.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1725659036865,
+      "lastSuccess": 0
+    },
+    "game-suitpvp.js": {
+      "total": 33,
+      "success": 33,
+      "last": 1725669037787,
+      "lastSuccess": 1725669037787
+    },
+    "game-slot.js": {
+      "total": 32,
+      "success": 22,
+      "last": 1725674885336,
+      "lastSuccess": 1725674885336
+    },
+    "game-ppt.js": {
+      "total": 10,
+      "success": 9,
+      "last": 1725670747847,
+      "lastSuccess": 1725670747847
+    },
+    "game-Trading.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1725672252513,
+      "lastSuccess": 1725672252513
+    },
+    "تركيب.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1725675199650,
+      "lastSuccess": 1725675199650
+    },
+    "fun-tops.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725746651043,
+      "lastSuccess": 1725746651043
+    },
+    "fun-top.js": {
+      "total": 24,
+      "success": 16,
+      "last": 1725748791999,
+      "lastSuccess": 1725748791999
+    },
+    "fun-pregunta.js": {
+      "total": 16,
+      "success": 16,
+      "last": 1725749625953,
+      "lastSuccess": 1725749625953
+    },
+    "fun-piropos.js": {
+      "total": 18,
+      "success": 18,
+      "last": 1725944672027,
+      "lastSuccess": 1725944672027
+    },
+    "fun-love.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725750283278,
+      "lastSuccess": 1725750283278
+    },
+    "fun-frases.js": {
+      "total": 12,
+      "success": 10,
+      "last": 1725750793335,
+      "lastSuccess": 1725750793335
+    },
+    "fun-formarpareja.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1725751946790,
+      "lastSuccess": 1725751946790
+    },
+    "fun-doxeo_falso.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1725752024971,
+      "lastSuccess": 1725752024971
+    },
+    "fun-deathnote.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725752214979,
+      "lastSuccess": 1725752214979
+    },
+    "fun-calculador.js": {
+      "total": 7,
+      "success": 3,
+      "last": 1725752757428,
+      "lastSuccess": 1725752757428
+    },
+    "اسئلني.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1725753512711,
+      "lastSuccess": 1725753512711
+    },
+    "تحدي.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725753822331,
+      "lastSuccess": 1725753822331
+    },
+    "fun-askme.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725753912056,
+      "lastSuccess": 1725753912056
+    },
+    "downloader-ytv.js": {
+      "total": 5,
+      "success": 3,
+      "last": 1725758176264,
+      "lastSuccess": 1725758176264
+    },
+    "downloader-ytv.2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725755275727,
+      "lastSuccess": 1725755275727
+    },
+    "downloader-yta.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1725758202787,
+      "lastSuccess": 0
+    },
+    "downloader-yta.2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725755678385,
+      "lastSuccess": 1725755678385
+    },
+    "downloader-x_twitter.js": {
+      "total": 12,
+      "success": 3,
+      "last": 1725756670633,
+      "lastSuccess": 1725756584977
+    },
+    "downloader-wallpaper.js": {
+      "total": 8,
+      "success": 5,
+      "last": 1725757208828,
+      "lastSuccess": 1725757208828
+    },
+    "downloader-tiktok_img.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725962327641,
+      "lastSuccess": 1725962327641
+    },
+    "downloader-playlist.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1725759208785,
+      "lastSuccess": 1725758145143
+    },
+    "downloader-playdoc.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725758347366,
+      "lastSuccess": 0
+    },
+    "downloader-play.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725758524534,
+      "lastSuccess": 0
+    },
+    "downloader-play_v2.js": {
+      "total": 13,
+      "success": 12,
+      "last": 1726002791305,
+      "lastSuccess": 1726002791305
+    },
+    "downloader-pinterest.js": {
+      "total": 64,
+      "success": 64,
+      "last": 1726009330673,
+      "lastSuccess": 1726009330673
+    },
+    "downloader-modapk.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725762203914,
+      "lastSuccess": 0
+    },
+    "downloader-mediafire.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1725762406226,
+      "lastSuccess": 0
+    },
+    "downloader-imagen.js": {
+      "total": 11,
+      "success": 8,
+      "last": 1725763089020,
+      "lastSuccess": 1725763089020
+    },
+    "downloader-gitclone.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1725763567100,
+      "lastSuccess": 1725763567100
+    },
+    "downloader-facebook.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1725764391025,
+      "lastSuccess": 0
+    },
+    "random-Couples.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1725778918547,
+      "lastSuccess": 1725778918547
+    },
+    "downloader-wallpaper2.js": {
+      "total": 11,
+      "success": 8,
+      "last": 1725782398902,
+      "lastSuccess": 1725782398902
+    },
+    "downloader-wallpaper3.js": {
+      "total": 11,
+      "success": 11,
+      "last": 1725781480512,
+      "lastSuccess": 1725781480512
+    },
+    "herramientas-editer.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1725781776757,
+      "lastSuccess": 1725781776757
+    },
+    "herramientas-yourpics.js": {
+      "total": 4,
+      "success": 0,
+      "last": 1725782104174,
+      "lastSuccess": 0
+    },
+    "downloader-play-v1.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725782435477,
+      "lastSuccess": 1725782435477
+    },
+    "ترجمة جوجل.js": {
+      "total": 8,
+      "success": 6,
+      "last": 1725783211706,
+      "lastSuccess": 1725783211706
+    },
+    "elevenlab.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1725918414156,
+      "lastSuccess": 1725918414156
+    },
+    "elevenlab2.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725784220601,
+      "lastSuccess": 1725784220601
+    },
+    "elevenlab3.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725784469192,
+      "lastSuccess": 1725784469192
+    },
+    "game-religious.js": {
+      "total": 11,
+      "success": 10,
+      "last": 1725786394028,
+      "lastSuccess": 1725786391371
+    },
+    "game-tarkib.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725786606924,
+      "lastSuccess": 1725786606924
+    },
+    "game-animequestion.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725786973242,
+      "lastSuccess": 1725786973242
+    },
+    "game-tafkik.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1725790173768,
+      "lastSuccess": 1725790173768
+    },
+    "herramientas-elevenlab3.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1725920467958,
+      "lastSuccess": 1725920467958
+    },
+    "herramientas-elevenlab.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1725800426933,
+      "lastSuccess": 1725800426933
+    },
+    "herramientas-elevenlab2.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1725918361610,
+      "lastSuccess": 1725918361610
+    },
+    "herramientas-ai-tr.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1725800809964,
+      "lastSuccess": 0
+    },
+    "menu-tanjirobot.js": {
+      "total": 227,
+      "success": 218,
+      "last": 1726072640380,
+      "lastSuccess": 1726072640380
+    },
+    "convertidor-tourl.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1725927751381,
+      "lastSuccess": 1725923716890
+    },
+    "herramientas-tanjiro2.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1725942672892,
+      "lastSuccess": 1725942672892
+    },
+    "buscador-wikipedia.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1725945892346,
+      "lastSuccess": 1725945735803
+    },
+    "buscador-tiktoksearch.js": {
+      "total": 7,
+      "success": 6,
+      "last": 1725947168957,
+      "lastSuccess": 1725947168957
+    },
+    "buscador-peliculas.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1725947738452,
+      "lastSuccess": 1725947738452
+    },
+    "buscador-githubsearch.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1725948323792,
+      "lastSuccess": 1725948234633
+    },
+    "buscador-animeinfo.js": {
+      "total": 14,
+      "success": 10,
+      "last": 1725949218884,
+      "lastSuccess": 1725949218884
+    },
+    "buscador-yts.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1725950971060,
+      "lastSuccess": 1725950971060
+    },
+    "herramientas-acortar2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1725970361587,
+      "lastSuccess": 1725970361587
+    },
+    "config-funciones.js": {
+      "total": 68,
+      "success": 64,
+      "last": 1725997218623,
+      "lastSuccess": 1725997218623
+    },
+    "gc-setwelcomee.js": {
+      "total": 5,
+      "success": 2,
+      "last": 1726061872568,
+      "lastSuccess": 1726061872568
+    },
+    "txt2video.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1726001844151,
+      "lastSuccess": 1726001750832
+    },
+    "txt2img.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1726002118753,
+      "lastSuccess": 1726002118753
+    },
+    "tozombie.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726002213807,
+      "lastSuccess": 1726002213807
+    },
+    "tourl2.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726002313929,
+      "lastSuccess": 1726002313929
+    },
+    "toptv.js": {
+      "total": 11,
+      "success": 5,
+      "last": 1726004511705,
+      "lastSuccess": 1726004511705
+    },
+    "ttp.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726002735072,
+      "lastSuccess": 1726002735072
+    },
+    "toimg.js": {
+      "total": 5,
+      "success": 2,
+      "last": 1726003233985,
+      "lastSuccess": 1726003233985
+    },
+    "transcribe.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1726004075869,
+      "lastSuccess": 1726004075869
+    },
+    "topdf.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1726004578222,
+      "lastSuccess": 0
+    },
+    "tocartoon.js": {
+      "total": 6,
+      "success": 0,
+      "last": 1726004701805,
+      "lastSuccess": 0
+    },
+    "telegraph.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726005063755,
+      "lastSuccess": 1726005063755
+    },
+    "tagme.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726005117775,
+      "lastSuccess": 1726005117775
+    },
+    "tagadmin.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726005281789,
+      "lastSuccess": 1726005281789
+    },
+    "gc-tagme.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726005273824,
+      "lastSuccess": 1726005273824
+    },
+    "tag.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1726005345536,
+      "lastSuccess": 1726005337806
+    },
+    "styletext.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1726005450153,
+      "lastSuccess": 0
+    },
+    "ssweb.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726005504075,
+      "lastSuccess": 1726005504075
+    },
+    "storyset.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1726005588604,
+      "lastSuccess": 1726005588604
+    },
+    "spotify.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1726005746453,
+      "lastSuccess": 0
+    },
+    "spotifysearch.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726005806117,
+      "lastSuccess": 1726005806117
+    },
+    "sfp.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1726005966430,
+      "lastSuccess": 0
+    },
+    "songfind.js": {
+      "total": 5,
+      "success": 3,
+      "last": 1726006337834,
+      "lastSuccess": 1726006337834
+    },
+    "snapchat.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726006619167,
+      "lastSuccess": 1726006619167
+    },
+    "setppgroup.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1726007031237,
+      "lastSuccess": 0
+    },
+    "runtime.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1726007504334,
+      "lastSuccess": 1726007504334
+    },
+    "removebg.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726007620387,
+      "lastSuccess": 1726007620387
+    },
+    "remini.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726007775771,
+      "lastSuccess": 1726007775771
+    },
+    "remini2_hdr_color.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726007862578,
+      "lastSuccess": 1726007862578
+    },
+    "qc.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1726008044861,
+      "lastSuccess": 1726008044861
+    },
+    "qc2.js": {
+      "total": 6,
+      "success": 3,
+      "last": 1726008459961,
+      "lastSuccess": 1726008150500
+    },
+    "region.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726008650711,
+      "lastSuccess": 1726008650711
+    },
+    "pixellab-plp.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1726008834304,
+      "lastSuccess": 1726008834304
+    },
+    "photoleap.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726008918451,
+      "lastSuccess": 1726008918451
+    },
+    "pixabayvideo.js": {
+      "total": 3,
+      "success": 2,
+      "last": 1726009055868,
+      "lastSuccess": 1726009042556
+    },
+    "picsum.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1726009455396,
+      "lastSuccess": 1726009455396
+    },
+    "ping.js": {
+      "total": 6,
+      "success": 5,
+      "last": 1726009859176,
+      "lastSuccess": 1726009859176
+    },
+    "mic.js": {
+      "total": 6,
+      "success": 3,
+      "last": 1726010498732,
+      "lastSuccess": 1726010498732
+    },
+    "nour-ai.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726010778723,
+      "lastSuccess": 1726010778723
+    },
+    "motamadris.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726010948745,
+      "lastSuccess": 1726010948745
+    },
+    "maps.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1726011064086,
+      "lastSuccess": 0
+    },
+    "lyric.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726011161344,
+      "lastSuccess": 1726011161344
+    },
+    "logo.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1726011292688,
+      "lastSuccess": 1726011292688
+    },
+    "listprivat.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726011704265,
+      "lastSuccess": 1726011704265
+    },
+    "metaphor-listprivate.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726011978053,
+      "lastSuccess": 1726011978053
+    },
+    "info-listprivate.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726012124233,
+      "lastSuccess": 1726012124233
+    },
+    "listonline.js": {
+      "total": 11,
+      "success": 11,
+      "last": 1726062665064,
+      "lastSuccess": 1726062665064
+    },
+    "leptonai.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726062749850,
+      "lastSuccess": 1726062749850
+    },
+    "lahelu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726062841793,
+      "lastSuccess": 1726062841793
+    },
+    "kora.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1726063007660,
+      "lastSuccess": 1726063007660
+    },
+    "kitab.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1726063134589,
+      "lastSuccess": 1726063134589
+    },
+    "instagram.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1726063196844,
+      "lastSuccess": 0
+    },
+    "ig3.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1726063226255,
+      "lastSuccess": 0
+    },
+    "ig2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726063298455,
+      "lastSuccess": 1726063298455
+    },
+    "inspectchannel.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726063404128,
+      "lastSuccess": 1726063404128
+    },
+    "gemini.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726063526267,
+      "lastSuccess": 1726063526267
+    },
+    "geminipro.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726063626670,
+      "lastSuccess": 1726063626670
+    },
+    "getppgc.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1726063860965,
+      "lastSuccess": 1726063860965
+    },
+    "get.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1726063980580,
+      "lastSuccess": 0
+    },
+    "getprofile.js": {
+      "total": 14,
+      "success": 14,
+      "last": 1726064483055,
+      "lastSuccess": 1726064483055
+    },
+    "gpt.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726064560079,
+      "lastSuccess": 1726064560079
+    },
+    "gpt4.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726064682693,
+      "lastSuccess": 1726064682693
+    },
+    "gimage.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1726065800931,
+      "lastSuccess": 1726065800931
+    },
+    "Firstmsg.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726065869634,
+      "lastSuccess": 1726065869634
+    },
+    "facebook.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726065910973,
+      "lastSuccess": 1726065910973
+    },
+    "feature.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726065958761,
+      "lastSuccess": 1726065958761
+    },
+    "fgemini.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726066086402,
+      "lastSuccess": 1726066086402
+    },
+    "1msub.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1726066430864,
+      "lastSuccess": 1726066430864
+    },
+    "apk.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726066474062,
+      "lastSuccess": 1726066474062
+    },
+    "42logo.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1726066617479,
+      "lastSuccess": 1726066617479
+    },
+    "ace.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726066740618,
+      "lastSuccess": 1726066740618
+    },
+    "ads.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1726066863236,
+      "lastSuccess": 1726066863236
+    },
+    "ai.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1726066938970,
+      "lastSuccess": 1726066938970
+    },
+    "aivoice.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726066988821,
+      "lastSuccess": 1726066988821
+    },
+    "apk2.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726067050151,
+      "lastSuccess": 1726067050151
+    },
+    "metaphor-apk.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726067080971,
+      "lastSuccess": 1726067080971
+    },
+    "ayati.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1726067445726,
+      "lastSuccess": 1726067445726
+    },
+    "bingsearch.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726067677112,
+      "lastSuccess": 1726067677112
+    },
+    "chatgpt4.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1726067877403,
+      "lastSuccess": 1726067877403
+    },
+    "clown2.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1726068052748,
+      "lastSuccess": 1726068052748
+    },
+    "metaphor-tozombie.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726068108169,
+      "lastSuccess": 1726068108169
+    },
+    "dalle.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1726068245068,
+      "lastSuccess": 1726068245068
+    },
+    "herramientas-takhyl.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726068700477,
+      "lastSuccess": 1726068700477
+    },
+    "deepfry.js": {
+      "total": 3,
+      "success": 2,
+      "last": 1726068743356,
+      "lastSuccess": 1726068729802
+    },
+    "download.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1726068786931,
+      "lastSuccess": 1726068786931
+    },
+    "duckduckgosearch.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1726069084036,
+      "lastSuccess": 1726069084036
+    },
+    "ebay.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1726069149844,
+      "lastSuccess": 1726069149844
+    },
+    "emoji.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1726069342180,
+      "lastSuccess": 1726069342180
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "6282228545461@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "autoBio": false,
+      "antiCall": true,
+      "restrict": true,
+      "image": true,
+      "gif": false,
+      "teks": false,
+      "doc": false,
+      "loc": false,
+      "autorestart": false
+    },
+    "212693227969@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "autoBio": false,
+      "antiCall": true,
+      "restrict": true,
+      "image": true,
+      "gif": false,
+      "teks": false,
+      "doc": false,
+      "loc": false,
+      "autorestart": false
+    },
+    "201281594672@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "autoBio": false,
+      "antiCall": true,
+      "restrict": true,
+      "image": true,
+      "gif": false,
+      "teks": false,
+      "doc": false,
+      "loc": false,
+      "autorestart": false,
+      "antiPrivate": false,
+      "antispam": true
+    },
+    "201061536745@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "autoBio": false,
+      "antiCall": true,
+      "restrict": true,
+      "image": true,
+      "gif": false,
+      "teks": false,
+      "doc": false,
+      "loc": false,
+      "autorestart": false
+    }
+  },
+  "menfess": {},
+  "simulator": {}
+}
